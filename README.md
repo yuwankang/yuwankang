@@ -3,8 +3,11 @@
 인프라엔지니어를 지망하는 강유완입니다.
 
 ## 🌐 Connect with me:
-- **Instagram**: [@yuwankang_instagram](https://www.instagram.com/yu._.wan_b/)
-- **Velog**: [@yuwankang_velog](https://velog.io/@yuwankang/posts)
+[![Velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yuwankang/posts)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyw4330@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yu._.wan_b/)
+- **Instagram**: [@yuwankang_instagram]()
+- **Velog**: [@yuwankang_velog]()
 
 
 ## 🔧 Technologies & Tools
