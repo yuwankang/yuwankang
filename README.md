@@ -51,7 +51,9 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) 
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) 
 [![NSX](https://img.shields.io/badge/NSX-0071C5?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/nsx.html) 
-[![Networking](https://img.shields.io/badge/Networking-007396?style=for-the-badge&logo=networking&logoColor=white)](https://www.cisco.com/) 
+[![Cisco](https://img.shields.io/badge/Networking-007396?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/) 
+
+
 
 ---
 
