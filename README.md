@@ -1,7 +1,9 @@
-# Hello, I'm [yuwankang] 👋
 
-인프라엔지니어를 지망하는 강유완입니다.
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20I'm%20Yuwan%20Kang&animation=scaleIn&fontColor=000000&fontSize=70" />
+    </div>
+    
+### 인프라엔지니어를 지망하는 강유완입니다.
 ---
 
 ## 🌐 Connect with me:
@@ -55,3 +57,5 @@
 
 ## 📊 GitHub Stats
 ![yuwankang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwankang&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuwankang&theme=radical)
