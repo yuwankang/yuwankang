@@ -1,8 +1,9 @@
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20I'm%20Yuwan%20Kang&animation=scaleIn&fontColor=000000&fontSize=70" />
-    </div>
-    
+<div align="center" style="background-color: #f0f8ff; border-radius: 20px; padding: 20px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20I'm%20Yuwan%20Kang&animation=scaleIn&fontColor=000000&fontSize=70" style="max-width: 100%; height: auto; border-radius: 10px;" />
+</div>
+
+
 ### 인프라엔지니어를 지망하는 강유완입니다.
 ---
 
@@ -56,8 +57,16 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 ![yuwankang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwankang&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuwankang&theme=radical)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwankang&layout=compact&theme=radical)
+
+## 🌱 Recent Contributions
+![Yuwan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yuwankang&theme=react-dark)
+
+## 👀 Visitor Count
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yuwankang)
