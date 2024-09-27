@@ -57,6 +57,9 @@
 
 
 ---
+
+## 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/yuwankang/count.svg)
 ## 📊 GitHub Stats
 ![yuwankang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwankang&show_icons=true&theme=radical)
 
@@ -65,8 +68,4 @@
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwankang&layout=compact&theme=radical)
 
-## 🌱 Recent Contributions
-![Yuwan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yuwankang&theme=react-dark)
 
-## 👀 Visitor Count
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yuwankang)
