@@ -63,7 +63,6 @@
 ## 📊 GitHub Stats
 ![yuwankang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwankang&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuwankang&theme=radical)
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwankang&layout=compact&theme=radical)
