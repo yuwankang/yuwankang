@@ -55,16 +55,3 @@
 [![Cisco](https://img.shields.io/badge/Networking-007396?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/) 
 
 
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/yuwankang/count.svg)
-## 📊 GitHub Stats
-![yuwankang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwankang&show_icons=true&theme=radical)
-
-
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwankang&layout=compact&theme=radical)
-
-
